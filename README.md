@@ -1,4 +1,22 @@
-# Reviews_POC
-During the past year, Large Languague Models (LLM) have developed an incredible track record. Their innate ability to understand natural language in close to six million forms of communication has lead to a myriad of applications. However, structured replies are harder to come by. If you want to input hundreds or thousands of records for a task and then store away a range of outputs in a database, things become trickier. Luckily, OpenAIs relatively recent models, such as gpt-3.5-turbo, are great at providing their output in JSON. With proper prompting and supporting scripting, this allows for a structured pipeline leading to structured output.\n
-In this repository I show a simple 'app' to analyse Google Maps Reviews, although it can easily be extended to all other kinds of texts. The basic logic is that the app digests a series of reviews (or other documents) and then asesses each of them on a series of custom-made categories ('Friendliness of staff', 'Quality of delivery', 'Speed of service', etc.). The app gives for each review and each category both a written evaluation (for now set at max. 50 characters, in English) and a score ranging from 1 (very negative) to 5 (very positive).\n
-The magic of LLMs is that they understand every language: the data, the categories, the asked-for evaluation, all can be done in almost any language. 
+# Large Language Models (LLM) Analysis Tool
+
+During the past year, LLMs have paved an impressive path. Their innate capability to comprehend over **six million forms** of communication has given rise to diverse applications. However, structured outputs can be elusive, especially when dealing with extensive data input. The good news? Models like **gpt-3.5-turbo** from OpenAI are adept at rendering their results in JSON, offering a structured output when combined with the right prompting and scripting.
+
+## About This Repository
+
+This repository introduces a straightforward app designed to **analyze Google Maps Reviews**. The underlying logic is versatile, making it extendable for analyzing different types of texts. Here's how it works:
+
+1. **Input**: Feed the app with a series of reviews or other textual documents and the categories for analysis.
+2. **Categorization**: The app assesses each document based on user-defined categories like:
+   - Friendliness of staff
+   - Quality of delivery
+   - Speed of service
+   ... and so on.
+   
+3. **Output**: For each review and category, the app produces:
+   - A **written evaluation** (limited to 50 characters in English, customizable)
+   - A **score** ranging from 1 (very negative) to 5 (very positive).
+
+## Multilingual Magic
+
+The beauty of LLMs is their multilingual prowess. Whether it's the data, the categories, or the requested evaluation, this tool can operate in virtually any language. It leverages the LLM's multilingual abilities to provide evaluations across a wide spectrum of languages.
