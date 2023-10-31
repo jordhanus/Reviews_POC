@@ -4,7 +4,7 @@ During the past year, LLMs have paved an impressive path. Their innate capabilit
 
 ## About This Repository
 
-This repository introduces a straightforward app designed to **analyze Google Maps Reviews**. The underlying logic is versatile, making it extendable for analyzing different types of texts. Here's how it works:
+This repository introduces a simple app designed to **analyze Google Maps Reviews**. The underlying logic is versatile, making it extendable for analyzing different types of texts. Here's how it works:
 
 1. **Input**: Feed the app with a series of reviews or other textual documents and the categories for analysis.
 2. **Categorization**: The app assesses each document based on user-defined categories like:
