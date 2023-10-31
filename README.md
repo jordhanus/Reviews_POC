@@ -1,6 +1,6 @@
 # Large Language Models (LLM) Analysis Tool
 
-During the past year, LLMs have paved an impressive path. Their innate capability to comprehend over **six million forms** of communication has given rise to diverse applications. However, structured outputs can be elusive, especially when dealing with extensive data input. The good news? Models like **gpt-3.5-turbo** from OpenAI are adept at rendering their results in JSON, offering a structured output when combined with the right prompting and scripting.
+During the past year, LLMs have paved an impressive path. Their innate capability to comprehend over six million forms of communication has given rise to diverse applications. However, structured outputs can be elusive, especially when dealing with extensive data input. The good news? Models like **gpt-3.5-turbo** from OpenAI are adept at rendering their results in JSON, offering a structured output when combined with the right prompting and scripting.
 
 ## About This Repository
 
