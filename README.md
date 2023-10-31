@@ -2,7 +2,7 @@
 
 During the past year, LLMs have left an indelible mark. Fluent in over six million forms of communication, they've unlocked a plethora of applications. 🚀 But when it comes to producing structured outputs, especially with massive data, the challenge persists. Good news? The **gpt-3.5-turbo** model from OpenAI shines at offering results in JSON, crafting structured outputs with adept prompting and scripting. 📊
 
-# 💼 Business Value
+## 💼 Business Value
 
 Introducing a tool designed to **analyze Google Maps Reviews** 🌍. The potential for business with this app is profound:
 
