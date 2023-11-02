@@ -30,3 +30,7 @@ The app is versatile, catering to various text analysis needs. Here's its modus 
 ## 🌍 Multilingual Magic
 
 The prowess of LLMs lies in their linguistic versatility. No matter the language of the data, categories, or evaluations, this tool is up to the task. Harness the linguistic capabilities of LLMs and explore evaluations across numerous languages. 💬
+
+# Exploring Alternatives
+
+The recent OpenAI models are state of the art, but when run on a large scale, potentially quite expensive. Stay tuned for alternative solutions: firstly, of-the-shelves open source LLMs; and secondly and more promising, fine-tuned LLMs where a high-quality small-ish dataset is used to fine-tune a much larger foundation model to perform on par with (or even better than?) OpenAIs magic🪄
