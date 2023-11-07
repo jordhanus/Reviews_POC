@@ -1,6 +1,6 @@
 # 🌐 Large Language Models (LLM) Analysis Tool
 
-During the past year, LLMs have left an indelible mark. Fluent in over six million forms of communication, they've unlocked a plethora of applications. 🚀 But when it comes to producing structured outputs, especially with massive data, the challenge persists. Good news? The **gpt-3.5-turbo** model from OpenAI shines at offering results in JSON, crafting structured outputs with adept prompting and scripting. 📊
+During the past year, LLMs have left an indelible mark. Fluent in over six million forms of communication, they've unlocked a plethora of applications. 🚀 But when it comes to producing structured outputs, especially with massive data, the challenge persists. Good news? The **gpt-3.5-turbo** model from OpenAI shines at offering results in JSON, crafting structured outputs with adept prompting and scripting. 📊 Next to this 'gold' standard (or at least it was before the massive OpenAI announcements of 6 November 2023), I will also showcase some alternative solutions using open source LLMs to either zero-shot classify our reviews, or fine-tune a model to comply with our needs.
 
 ## 💼 Business Value
 
@@ -33,4 +33,4 @@ The prowess of LLMs lies in their linguistic versatility. No matter the language
 
 # Exploring Alternatives
 
-The recent OpenAI models are state of the art, but when run on a large scale, potentially quite expensive. Stay tuned for alternative solutions: firstly, of-the-shelves open source LLMs; and secondly and more promising, fine-tuned LLMs where a high-quality small-ish dataset is used to fine-tune a much larger foundation model to perform on par with (or even better than?) OpenAIs magic🪄
+The recent OpenAI models are state of the art, but when run on a large scale, potentially quite expensive. Stay tuned for alternative solutions: firstly, off-the-shelves open source LLMs; and secondly and more promising, fine-tuned LLMs where a high-quality small-ish dataset is used to fine-tune a much larger foundation model to perform on par with (or even better than?) OpenAIs magic🪄
